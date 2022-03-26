@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Myka Miller - Data Science Portfolio
 
-You can use the [editor on GitHub](https://github.com/mykamiller/Myka-Miller/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Click around and check out some of the projects I have worked on indivudially or with a team. I will disclose when a project was created with a team, however, their names have been excluded for privacy. If you would like to reach out to me, you can message me on [LinkedIn](https://www.linkedin.com/in/myka-miller/)!
 
 ### Markdown
 
